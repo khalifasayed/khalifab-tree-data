@@ -1,0 +1,4 @@
+[
+    { "id": "1", "name": "محمد (قيقم) بن عبد السلام", "parent": "0", "type": "ancestor", "symbol": "" },
+    { "id": "w1", "name": "أورنين سربل", "parent": "1", "type": "wife", "symbol": "" }
+]
