@@ -1,7 +1,20 @@
 [
-    { "id": "1", "name": "محمد (قيقم) بن عبد السلام", "parent": "0", "type": "ancestor", "symbol": "" },
-    { "id": "w1", "name": "أورنين سربل", "parent": "1", "type": "wife", "symbol": "" },
-    {        "id": "w2",
+    {
+        "id": "1",
+        "name": "محمد (قيقم) بن عبد السلام",
+        "parent": "0",
+        "type": "ancestor",
+        "symbol": ""
+    },
+    {
+        "id": "w1",
+        "name": "أورنين سربل",
+        "parent": "1",
+        "type": "wife",
+        "symbol": ""
+    },
+    {
+        "id": "w2",
         "name": "دارا (أرحمندا)",
         "parent": "1",
         "type": "wife",
@@ -8055,7 +8068,13 @@
         "name": "مسك اليمن",
         "parent": "1779203846527",
         "type": "child",
-         
-            "symbol": ""
+        "symbol": ""
+    },
+    {
+        "id": "1784711888387",
+        "name": "سمية عبد الله",
+        "parent": "1779203845988",
+        "type": "wife",
+        "symbol": ""
     }
 ]
